@@ -8,7 +8,7 @@
   <h1>Foto Kenangan</h1>
   
   <!-- Menampilkan gambar -->
-  <img src="foto.jpg" alt="Foto Kenangan" width="300">
+  <img src="foto1.jpg" alt="Foto Kenangan" width="300">
 
 </body>
 </html>
